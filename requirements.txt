@@ -1,8 +1,5 @@
-dlib
-cmake
 flask
 opencv-python
-face_recognition
 numpy
 gunicorn==23.0.0
 
