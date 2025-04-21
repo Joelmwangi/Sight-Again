@@ -2,5 +2,6 @@ flask
 opencv-python
 numpy
 gunicorn==23.0.0
+dlib
 
 
